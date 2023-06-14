@@ -1,0 +1,12 @@
+{
+  "name": "problem-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
